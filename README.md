@@ -4,7 +4,7 @@
   <a href="www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasgdev"/>
   </a>
-  <a href="https://www.instagram.com/eliasgdev](https://www.instagram.com/elias1_g27/" target="blank">
+  <a href="https://www.instagram.com/elias1_g27/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eliasgdev"/>
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 🚀 Construyendo proyectos reales para conseguir mi primer empleo como desarrollador
 
-📫 Contacto: <strong>gutierrez.miguel.elias@gmail.com/strong>
+📫 Contacto: <strong>gutierrez.miguel.elias@gmail.com</strong>
 </p>
 
 <br>
