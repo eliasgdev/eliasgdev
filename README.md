@@ -22,7 +22,7 @@
 
 🚀 Construyendo proyectos reales para conseguir mi primer empleo como desarrollador
 
-📫 Contacto: <strong>tu_email@gmail.com</strong>
+📫 Contacto: <strong>gutierrez.miguel.elias@gmail.com/strong>
 </p>
 
 <br>
