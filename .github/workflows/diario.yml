@@ -1,0 +1,27 @@
+name: Chiste y dato del día
+
+on:
+  schedule:
+    - cron: '0 11 * * *' # 6:00 a. m. en Bogotá
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/actualizar-readme.mjs
+      - name: Commit
+        run: |
+          git config user.name "eliasgdev"
+          git config user.email "198462668+eliasgdev@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "docs: chiste y dato del día $(TZ=America/Bogota date +%F)"
+          git push

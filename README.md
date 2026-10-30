@@ -1,87 +1,90 @@
-<h1 align="center">Hola 👋 soy Elias Gutierrez</h1>
+<div align="center">
 
-<p align="center">
-  <a href="www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasgdev"/>
-  </a>
-  <a href="https://www.instagram.com/elias1_g27/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eliasgdev"/>
-  </a>
+# Elias Gutiérrez
+
+<a href="https://github.com/eliasgdev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desarrollador+fullstack+orientado+al+backend;APIs%2C+bases+de+datos+y+apps+m%C3%B3viles+offline;Fundador+de+Avirexis;git+commit+-m+%22ahora+s%C3%AD+funciona%22" alt="Desarrollador fullstack orientado al backend" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gutierrez.miguel.elias@gmail.com"><img src="https://img.shields.io/badge/Email-gutierrez.miguel.elias%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://avirexis.com"><img src="https://img.shields.io/badge/Avirexis-avirexis.com-111827?style=flat-square" alt="Avirexis" /></a>
+  <a href="https://www.instagram.com/elias1_g27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<br>
+</div>
 
-<h2>Sobre mí 😃</h2>
+---
 
-<p align="left">
-🎓 Estudiante de Ingeniería en Sistemas
+### Sobre mí
 
-💻 Desarrollador fullstack en formación — orientado al backend
+```ts
+const elias = {
+  ubicacion: 'Bogotá, Colombia',
+  estudio: 'Ingeniería de Sistemas · Universidad El Bosque',
+  rol: 'Desarrollador fullstack, orientado al backend',
+  construyendo: 'Avirexis: SaaS para restaurantes con facturación electrónica DIAN',
+  aprendiendo: ['agentes de IA', 'MCP', 'RAG con pgvector', 'sistemas distribuidos'],
+  fueraDelCodigo: ['moto', 'música'],
+  combustible: '☕',
+  centrarUnDiv: () => 'display: grid; place-items: center; // por fin',
+};
+```
 
-🏍️ Motociclista y apasionado por la música
+### Stack
 
-🚀 Construyendo proyectos reales para conseguir mi primer empleo como desarrollador
-
-📫 Contacto: <strong>gutierrez.miguel.elias@gmail.com</strong>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" alt="Lenguajes" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,angular,react,androidstudio,spring&theme=dark" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,netlify,git,github,linux&theme=dark" alt="Herramientas" />
 </p>
 
-<br>
+### Proyectos destacados
 
-<h2>Tecnologías 👨🏻‍💻</h2>
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| **[Avirexis](https://avirexis.com)** | SaaS multiempresa para restaurantes: mesas, pedidos, caja, inventario y facturación electrónica DIAN (UBL 2.1, CUFE, firma digital). Su app móvil funciona sin conexión y sincroniza con una cola idempotente. *Código privado.* | Angular · Node.js · PostgreSQL · Expo |
+| **[SilentSOS](https://github.com/eliasgdev/silent-sos)** | App Android para pedir ayuda sin llamar la atención: SMS silencioso con GPS, ubicación en tiempo real por WhatsApp, seguimiento en segundo plano y llamada de emergencia. | Kotlin · Jetpack Compose · Hilt |
+| **Consulta predial Bogotá** | CLI que convierte una dirección en el CHIP de Catastro Distrital, lee el estado de cuenta predial (PDF del VUR) y prellena la consulta en Supernotariado. Procesa bases masivas y tiene pruebas con fixtures. *Código privado.* | Python · httpx · Playwright · pytest |
+| **[Mis Finanzas](https://github.com/eliasgdev/mis-finanzas-app)** | Finanzas personales sin backend: cuentas, gastos fijos con recordatorios, gastos del día a día y exportación del historial a Excel. | React Native · Expo |
+| **[DB Unbosque](https://github.com/eliasgdev/db-unbosque-front)** | Proyecto de bases de datos con frontend web y API. | Angular · Node.js · PostgreSQL |
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,spring,postgres,sqlite,git,github,eclipse,vscode,postman&perline=7" />
-  </a>
-</p>
+<details>
+<summary><b>Proyectos de práctica</b></summary>
+<br/>
 
-<br>
+- [auth-api](https://github.com/eliasgdev/auth-api): autenticación con JWT, bcrypt y PostgreSQL
+- [moto-logbook-api](https://github.com/eliasgdev/moto-logbook-api): API REST para registrar rutas en moto (Node.js + SQLite)
+- [moto-weather](https://github.com/eliasgdev/moto-weather): clima con indicador de condiciones para manejar moto
+- [ejercicios-java](https://github.com/eliasgdev/ejercicios-java): estructuras de datos y algoritmos en Java
 
-<h2>Proyectos 🛠️</h2>
+</details>
 
-<table align="left">
-<tr border="none">
+### Commit del día
 
-<td width="33%" align="center">
-  <p><strong>Moto Weather</strong></p>
-  <p>App del clima para motociclistas con indicador de condiciones de manejo</p>
-  <a href="https://github.com/eliasgdev/moto-weather" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
+<!-- DIA:INICIO -->
+> **Chiste del día**
+> Un buen programador mira a ambos lados antes de cruzar una calle de un solo sentido.
 
-<td width="33%" align="center">
-  <p><strong>Moto Logbook API</strong></p>
-  <p>REST API CRUD para registrar rutas en moto con Node.js y SQLite</p>
-  <a href="https://github.com/eliasgdev/moto-logbook-api" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
+> **¿Sabías que...?**
+> Brendan Eich creó la primera versión de JavaScript en unos diez días, en mayo de 1995.
 
-<td width="33%" align="center">
-  <p><strong>Auth API</strong></p>
-  <p>API de autenticación con JWT, bcrypt y PostgreSQL</p>
-  <a href="https://github.com/eliasgdev/auth-api" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
+<sub>Se actualiza solo todos los días · última actualización: 2026-10-30</sub>
+<!-- DIA:FIN -->
 
-</tr>
-</table>
+### Actividad
 
-<br><br><br><br><br><br>
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com/?user=eliasgdev&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasgdev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake.svg" alt="Snake comiéndose mis contribuciones" />
+  </picture>
+</div>
 
-<h2>GitHub 📊</h2>
-
-<p align="center">
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-  <img title="🔥 Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasgdev&theme=dark&hide_border=false"/>
-</td>
-<td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eliasgdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
+<div align="center">
+<sub>Este README se actualiza solo todos los días con un GitHub Action. Ver <a href="scripts/actualizar-readme.mjs">cómo funciona</a>.</sub>
+</div>
