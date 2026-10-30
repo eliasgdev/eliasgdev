@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-<img align="right" width="420" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eliasgdev&show_icons=true&include_all_commits=true&count_private=true&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
+<img align="right" width="420" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eliasgdev&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estad%C3%ADsticas%20en%20GitHub&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
 
 Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y construyo software que usan negocios reales. Me gusta el backend: diseñar la base de datos, que la API no se caiga y conectar con servicios que no tienen documentación.
 
@@ -26,12 +26,12 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y const
 
 ## Stack
 
-| | |
-|---|---|
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java, Kotlin" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,sqlite&theme=dark" height="40" alt="Node.js, Express, Spring, PostgreSQL, SQLite" /> |
-| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=angular,react,androidstudio,html,css&theme=dark" height="40" alt="Angular, React Native, Android, HTML, CSS" /> |
-| **Infraestructura** | <img src="https://skillicons.dev/icons?i=docker,netlify,linux,git,github&theme=dark" height="40" alt="Docker, Netlify, Linux, Git, GitHub" /> |
+<table>
+  <tr><td><b>Lenguajes</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java, Kotlin" /></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,sqlite&theme=dark" height="40" alt="Node.js, Express, Spring, PostgreSQL, SQLite" /></td></tr>
+  <tr><td><b>Frontend y móvil</b></td><td><img src="https://skillicons.dev/icons?i=angular,react,androidstudio,html,css&theme=dark" height="40" alt="Angular, React Native, Android, HTML, CSS" /></td></tr>
+  <tr><td><b>Infraestructura</b></td><td><img src="https://skillicons.dev/icons?i=docker,netlify,linux,git,github&theme=dark" height="40" alt="Docker, Netlify, Linux, Git, GitHub" /></td></tr>
+</table>
 
 ## Proyecto principal: Avirexis
 
@@ -49,10 +49,10 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y const
 ## Otros proyectos
 
 <div align="center">
-  <a href="https://github.com/eliasgdev/silent-sos"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=silent-sos&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="SilentSOS" /></a>
-  <a href="https://github.com/eliasgdev/mis-finanzas-app"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=mis-finanzas-app&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Mis Finanzas" /></a>
-  <a href="https://github.com/eliasgdev/db-unbosque-front"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=db-unbosque-front&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="DB Unbosque" /></a>
-  <a href="https://github.com/eliasgdev/auth-api"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=auth-api&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Auth API" /></a>
+  <a href="https://github.com/eliasgdev/silent-sos"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=silent-sos&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="SilentSOS" /></a>
+  <a href="https://github.com/eliasgdev/mis-finanzas-app"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=mis-finanzas-app&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Mis Finanzas" /></a>
+  <a href="https://github.com/eliasgdev/db-unbosque-front"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=db-unbosque-front&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="DB Unbosque" /></a>
+  <a href="https://github.com/eliasgdev/auth-api"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=auth-api&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Auth API" /></a>
 </div>
 
 **También hice, con código privado:** una CLI en Python que convierte una dirección de Bogotá en su CHIP catastral y lee el estado de cuenta predial, una PWA de trabajo de campo con mapa y cola offline, y la landing de una constructora con un CMS para que el cliente la edite.
@@ -78,10 +78,10 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 ## Commit del día
 
 <!-- DIA:INICIO -->
-> **Chiste del día**
+> **Chiste del día**<br>
 > Un buen programador mira a ambos lados antes de cruzar una calle de un solo sentido.
 
-> **¿Sabías que...?**
+> **¿Sabías que...?**<br>
 > Brendan Eich creó la primera versión de JavaScript en unos diez días, en mayo de 1995.
 
 <sub>Se actualiza solo todos los días · última actualización: 2026-10-30</sub>
@@ -91,7 +91,7 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=eliasgdev&locale=es&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true&border_radius=10" alt="Racha de contribuciones" />
-  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=eliasgdev&layout=compact&langs_count=8&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=10&card_width=420" alt="Lenguajes más usados" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=eliasgdev&layout=compact&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=10&card_width=420" alt="Lenguajes más usados" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake-dark.svg" />

@@ -12,10 +12,10 @@ const chiste = chistes[dia % chistes.length];
 const dato = datos[(dia * 7) % datos.length];
 
 const bloque = `<!-- DIA:INICIO -->
-> **Chiste del día**
+> **Chiste del día**<br>
 > ${chiste}
 
-> **¿Sabías que...?**
+> **¿Sabías que...?**<br>
 > ${dato}
 
 <sub>Se actualiza solo todos los días · última actualización: ${hoy}</sub>
