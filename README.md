@@ -1,67 +1,81 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,55:1f3a68,100:2f81f7&text=Elias%20Guti%C3%A9rrez&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Desarrollador%20fullstack%20%C2%B7%20Backend%2C%20m%C3%B3vil%20y%20automatizaci%C3%B3n&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Elias Gutiérrez" />
+
 <div align="center">
 
-# Elias Gutiérrez
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyo+APIs%2C+bases+de+datos+y+apps+que+funcionan+sin+internet;Fundador+de+Avirexis%2C+un+SaaS+para+restaurantes;Facturaci%C3%B3n+electr%C3%B3nica+DIAN+desde+cero;git+commit+-m+%22ahora+s%C3%AD+funciona%22" alt="Construyo APIs, bases de datos y apps que funcionan sin internet" />
 
-<a href="https://github.com/eliasgdev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desarrollador+fullstack+orientado+al+backend;APIs%2C+bases+de+datos+y+apps+m%C3%B3viles+offline;Fundador+de+Avirexis;git+commit+-m+%22ahora+s%C3%AD+funciona%22" alt="Desarrollador fullstack orientado al backend" />
-</a>
-
-<p>
-  <a href="https://www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gutierrez.miguel.elias@gmail.com"><img src="https://img.shields.io/badge/Email-gutierrez.miguel.elias%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://avirexis.com"><img src="https://img.shields.io/badge/Avirexis-avirexis.com-111827?style=flat-square" alt="Avirexis" /></a>
-  <a href="https://www.instagram.com/elias1_g27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<a href="https://www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gutierrez.miguel.elias@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://avirexis.com"><img src="https://img.shields.io/badge/Avirexis-1f3a68?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avirexis" /></a>
+<a href="https://www.instagram.com/elias1_g27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
----
+## Sobre mí
 
-### Sobre mí
+<img align="right" width="420" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eliasgdev&show_icons=true&include_all_commits=true&count_private=true&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
 
-```ts
-const elias = {
-  ubicacion: 'Bogotá, Colombia',
-  estudio: 'Ingeniería de Sistemas · Universidad El Bosque',
-  rol: 'Desarrollador fullstack, orientado al backend',
-  construyendo: 'Avirexis: SaaS para restaurantes con facturación electrónica DIAN',
-  aprendiendo: ['agentes de IA', 'MCP', 'RAG con pgvector', 'sistemas distribuidos'],
-  fueraDelCodigo: ['moto', 'música'],
-  combustible: '☕',
-  centrarUnDiv: () => 'display: grid; place-items: center; // por fin',
-};
-```
+Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y construyo software que usan negocios reales. Me gusta el backend: diseñar la base de datos, que la API no se caiga y conectar con servicios que no tienen documentación.
 
-### Stack
+- **Construyendo:** Avirexis, un SaaS para restaurantes con facturación electrónica DIAN
+- **Aprendiendo:** agentes de IA, MCP, RAG con pgvector y sistemas distribuidos
+- **Me interesa:** sistemas offline-first, integraciones con el Estado y automatización
+- **Fuera del código:** moto, música y café
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" alt="Lenguajes" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,angular,react,androidstudio,spring&theme=dark" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,netlify,git,github,linux&theme=dark" alt="Herramientas" />
-</p>
+<br clear="right" />
 
-### Proyectos destacados
+## Stack
 
-| Proyecto | Qué hace | Stack |
-|---|---|---|
-| **[Avirexis](https://avirexis.com)** | SaaS multiempresa para restaurantes: mesas, pedidos, caja, inventario y facturación electrónica DIAN (UBL 2.1, CUFE, firma digital). Su app móvil funciona sin conexión y sincroniza con una cola idempotente. *Código privado.* | Angular · Node.js · PostgreSQL · Expo |
-| **[SilentSOS](https://github.com/eliasgdev/silent-sos)** | App Android para pedir ayuda sin llamar la atención: SMS silencioso con GPS, ubicación en tiempo real por WhatsApp, seguimiento en segundo plano y llamada de emergencia. | Kotlin · Jetpack Compose · Hilt |
-| **Consulta predial Bogotá** | CLI que convierte una dirección en el CHIP de Catastro Distrital, lee el estado de cuenta predial (PDF del VUR) y prellena la consulta en Supernotariado. Procesa bases masivas y tiene pruebas con fixtures. *Código privado.* | Python · httpx · Playwright · pytest |
-| **[Mis Finanzas](https://github.com/eliasgdev/mis-finanzas-app)** | Finanzas personales sin backend: cuentas, gastos fijos con recordatorios, gastos del día a día y exportación del historial a Excel. | React Native · Expo |
-| **[DB Unbosque](https://github.com/eliasgdev/db-unbosque-front)** | Proyecto de bases de datos con frontend web y API. | Angular · Node.js · PostgreSQL |
+| | |
+|---|---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java, Kotlin" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,sqlite&theme=dark" height="40" alt="Node.js, Express, Spring, PostgreSQL, SQLite" /> |
+| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=angular,react,androidstudio,html,css&theme=dark" height="40" alt="Angular, React Native, Android, HTML, CSS" /> |
+| **Infraestructura** | <img src="https://skillicons.dev/icons?i=docker,netlify,linux,git,github&theme=dark" height="40" alt="Docker, Netlify, Linux, Git, GitHub" /> |
+
+## Proyecto principal: Avirexis
+
+> SaaS multiempresa para restaurantes en Colombia, en producción en [avirexis.com](https://avirexis.com). *Código privado.*
+
+| Módulo | Qué resuelve |
+|---|---|
+| **Operación** | Mesas, pedidos, caja, inventario y reportes |
+| **Facturación electrónica** | XML UBL 2.1, CUFE y firma digital para la DIAN, en proceso de habilitación |
+| **App móvil offline** | Los meseros siguen tomando pedidos sin internet; una cola idempotente sincroniza al volver la conexión |
+| **Seguridad** | Roles por empresa, 2FA y aislamiento de datos entre clientes |
+
+<sub>Angular · Node.js · PostgreSQL · Expo · Render · Netlify</sub>
+
+## Otros proyectos
+
+<div align="center">
+  <a href="https://github.com/eliasgdev/silent-sos"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=silent-sos&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="SilentSOS" /></a>
+  <a href="https://github.com/eliasgdev/mis-finanzas-app"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=mis-finanzas-app&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Mis Finanzas" /></a>
+  <a href="https://github.com/eliasgdev/db-unbosque-front"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=db-unbosque-front&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="DB Unbosque" /></a>
+  <a href="https://github.com/eliasgdev/auth-api"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=auth-api&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Auth API" /></a>
+</div>
+
+**También hice, con código privado:** una CLI en Python que convierte una dirección de Bogotá en su CHIP catastral y lee el estado de cuenta predial, una PWA de trabajo de campo con mapa y cola offline, y la landing de una constructora con un CMS para que el cliente la edite.
 
 <details>
-<summary><b>Proyectos de práctica</b></summary>
-<br/>
+<summary><b>Mi historia en commits</b></summary>
 
-- [auth-api](https://github.com/eliasgdev/auth-api): autenticación con JWT, bcrypt y PostgreSQL
-- [moto-logbook-api](https://github.com/eliasgdev/moto-logbook-api): API REST para registrar rutas en moto (Node.js + SQLite)
-- [moto-weather](https://github.com/eliasgdev/moto-weather): clima con indicador de condiciones para manejar moto
-- [ejercicios-java](https://github.com/eliasgdev/ejercicios-java): estructuras de datos y algoritmos en Java
+```text
+$ git log --oneline --reverse elias
+a1f0c3e  init: primer "Hola mundo" en Java
+b72d9e1  feat: estructuras de datos y algoritmos (ejercicios-java)
+c3e81a4  feat: primeras APIs REST con Node.js, JWT y SQLite
+d94b0f7  feat: proyecto de bases de datos con Angular y PostgreSQL
+e5a2c18  feat: fundar Avirexis, un SaaS para restaurantes
+f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
+0a7e4b3  feat: app Android de emergencias en Kotlin (SilentSOS)
+1b8f5c4  fix: dormir más (pendiente desde 2023)
+2c9a6d5  (HEAD -> main) wip: agentes de IA, MCP y RAG
+```
 
 </details>
 
-### Commit del día
+## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**
@@ -73,18 +87,18 @@ const elias = {
 <sub>Se actualiza solo todos los días · última actualización: 2026-10-30</sub>
 <!-- DIA:FIN -->
 
-### Actividad
+## Actividad
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=eliasgdev&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasgdev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=eliasgdev&locale=es&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true&border_radius=10" alt="Racha de contribuciones" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=eliasgdev&layout=compact&langs_count=8&locale=es&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=10&card_width=420" alt="Lenguajes más usados" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake.svg" alt="Snake comiéndose mis contribuciones" />
+    <img width="100%" src="https://raw.githubusercontent.com/eliasgdev/eliasgdev/output/snake.svg" alt="Snake comiéndose mis contribuciones" />
   </picture>
 </div>
 
-<div align="center">
-<sub>Este README se actualiza solo todos los días con un GitHub Action. Ver <a href="scripts/actualizar-readme.mjs">cómo funciona</a>.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2f81f7,45:1f3a68,100:0d1117" width="100%" alt="" />
+
+<div align="center"><sub>Este README se actualiza solo cada día con un GitHub Action · <a href="scripts/actualizar-readme.mjs">ver cómo</a></sub></div>
