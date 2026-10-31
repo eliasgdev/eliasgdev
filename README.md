@@ -49,10 +49,10 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y const
 ## Otros proyectos
 
 <div align="center">
+  <a href="https://github.com/eliasgdev/turnero"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=turnero&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="turnero" /></a>
   <a href="https://github.com/eliasgdev/silent-sos"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=silent-sos&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="SilentSOS" /></a>
   <a href="https://github.com/eliasgdev/mis-finanzas-app"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=mis-finanzas-app&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Mis Finanzas" /></a>
   <a href="https://github.com/eliasgdev/db-unbosque-front"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=db-unbosque-front&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="DB Unbosque" /></a>
-  <a href="https://github.com/eliasgdev/auth-api"><img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=eliasgdev&repo=auth-api&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10&description_lines_count=2" alt="Auth API" /></a>
 </div>
 
 **También hice, con código privado:** una CLI en Python que convierte una dirección de Bogotá en su CHIP catastral y lee el estado de cuenta predial, una PWA de trabajo de campo con mapa y cola offline, y la landing de una constructora con un CMS para que el cliente la edite.
@@ -70,7 +70,8 @@ e5a2c18  feat: fundar Avirexis, un SaaS para restaurantes
 f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 0a7e4b3  feat: app Android de emergencias en Kotlin (SilentSOS)
 1b8f5c4  fix: dormir más (pendiente desde 2023)
-2c9a6d5  (HEAD -> main) wip: agentes de IA, MCP y RAG
+2c9a6d5  feat: turnero, cola de trabajos open source sobre PostgreSQL
+3d0b7e6  (HEAD -> main) wip: agentes de IA, MCP y RAG
 ```
 
 </details>
