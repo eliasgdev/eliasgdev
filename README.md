@@ -80,12 +80,12 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> No es un bug si está en la documentación. Por eso no escribo documentación.
+> Cada vez que alguien dice "es solo un botón", un estimado se triplica.
 
 > **¿Sabías que...?**<br>
-> El primer dominio .com registrado fue symbolics.com, el 15 de marzo de 1985.
+> Ley de Hofstadter: siempre toma más tiempo del que esperas, incluso si tienes en cuenta la Ley de Hofstadter.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-10-31</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-01</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
