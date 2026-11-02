@@ -80,12 +80,12 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Cada vez que alguien dice "es solo un botón", un estimado se triplica.
+> Mi código compila a la primera. Ahora estoy preocupado.
 
 > **¿Sabías que...?**<br>
-> Ley de Hofstadter: siempre toma más tiempo del que esperas, incluso si tienes en cuenta la Ley de Hofstadter.
+> Brain, de 1986, se considera el primer virus para PC de IBM. Sus autores pusieron en el código su nombre, su dirección y su teléfono.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-01</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-02</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
