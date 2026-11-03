@@ -80,12 +80,12 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Mi código compila a la primera. Ahora estoy preocupado.
+> Hay 10 tipos de personas: las que entienden binario y las que no.
 
 > **¿Sabías que...?**<br>
-> Brain, de 1986, se considera el primer virus para PC de IBM. Sus autores pusieron en el código su nombre, su dirección y su teléfono.
+> El primer "bug" documentado fue una polilla real atrapada en un relé del Harvard Mark II en 1947. El equipo de Grace Hopper la pegó en la bitácora.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-02</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-03</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
