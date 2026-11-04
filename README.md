@@ -80,12 +80,12 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Hay 10 tipos de personas: las que entienden binario y las que no.
+> —En mi máquina funciona. —Perfecto, entonces subimos tu máquina a producción.
 
 > **¿Sabías que...?**<br>
-> El primer "bug" documentado fue una polilla real atrapada en un relé del Harvard Mark II en 1947. El equipo de Grace Hopper la pegó en la bitácora.
+> El 19 de enero de 2038 se desbordan los sistemas que guardan el tiempo Unix en un entero de 32 bits con signo. Es el problema del año 2038.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-03</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-04</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
