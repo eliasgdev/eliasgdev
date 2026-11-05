@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" width="985" height="574" font-size="16px">
+<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}.clave{fill:#58a6ff}.valor{fill:#e6edf3}.tenue{fill:#484f58}.usuario{fill:#79c0ff}.suma{fill:#3fb950}.resta{fill:#f85149}.cielo{fill:#6e7681}.sol{fill:#f0883e}.montana{fill:#2f81f7}.agua{fill:#39c5cf}text,tspan{white-space:pre}</style>
+<rect width="985" height="574" fill="#0d1117" rx="15" stroke="#30363d" stroke-width="1"/>
+<text xml:space="preserve">
+<tspan x="30" y="64">   <tspan class="cielo">.          *            .</tspan></tspan>
+<tspan x="30" y="84">         <tspan class="cielo">.          .           *</tspan></tspan>
+<tspan x="30" y="104">  <tspan class="cielo">*            .         .</tspan></tspan>
+<tspan x="30" y="124">        <tspan class="cielo">.            *         .</tspan></tspan>
+<tspan x="30" y="144">              <tspan class="cielo">.</tspan></tspan>
+<tspan x="30" y="164">    <tspan class="cielo">.                    .      *</tspan></tspan>
+<tspan x="30" y="184">          <tspan class="cielo">*        .</tspan></tspan>
+<tspan x="30" y="204">             <tspan class="sol">.-~~~~~~~-.</tspan></tspan>
+<tspan x="30" y="224">          <tspan class="sol">.-'           '-.</tspan></tspan>
+<tspan x="30" y="244">        <tspan class="sol">.'                 '.</tspan></tspan>
+<tspan x="30" y="264">  <tspan class="montana">/\   </tspan><tspan class="sol">(                     )  </tspan><tspan class="montana">/\</tspan></tspan>
+<tspan x="30" y="284"> <tspan class="montana">/  \ /                       \/  \</tspan></tspan>
+<tspan x="30" y="304"><tspan class="montana">/    V    /\             /\        \</tspan></tspan>
+<tspan x="30" y="324">         <tspan class="montana">/  \_   /\     /  \_</tspan></tspan>
+<tspan x="30" y="344"><tspan class="agua">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan></tspan>
+<tspan x="30" y="364">   <tspan class="agua">~~~~      ~~~~~~~~~     ~~~~</tspan></tspan>
+<tspan x="30" y="384">        <tspan class="agua">~~~~~~       ~~~~~~    ~~~</tspan></tspan>
+<tspan x="30" y="404">  <tspan class="agua">~~~         ~~~~~~      ~~~~~~</tspan></tspan>
+<tspan x="30" y="424">      <tspan class="agua">~~~~~~~      ~~~~~        ~~</tspan></tspan>
+<tspan x="30" y="444"> <tspan class="agua">~~~~       ~~~~~       ~~~~~~</tspan></tspan>
+<tspan x="30" y="464">         <tspan class="agua">~~~~~~   ~~~~~~~~    ~~~~</tspan></tspan>
+<tspan x="30" y="484">   <tspan class="agua">~~~~~~      ~~~~      ~~~~~</tspan></tspan>
+<tspan x="30" y="504">        <tspan class="agua">~~~~~       ~~~~~~~     ~~</tspan></tspan>
+<tspan x="30" y="524">  <tspan class="agua">~~~         ~~~~~~      ~~~~</tspan></tspan>
+</text>
+<text xml:space="preserve">
+<tspan x="420" y="44"><tspan class="usuario">elias</tspan><tspan class="tenue">@</tspan><tspan class="usuario">eliasgdev</tspan><tspan class="tenue"> ──────────────────────────────────────</tspan></tspan>
+<tspan x="420" y="64"><tspan class="clave">SO</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">Fedora Linux, Android</tspan></tspan>
+<tspan x="420" y="84"><tspan class="clave">Uptime</tspan><tspan class="tenue">: ..................... </tspan><tspan class="valor">1 año, 8 meses, 27 días</tspan></tspan>
+<tspan x="420" y="104"><tspan class="clave">Host</tspan><tspan class="tenue">: ................. </tspan><tspan class="valor">Universidad El Bosque, Bogotá</tspan></tspan>
+<tspan x="420" y="124"><tspan class="clave">Kernel</tspan><tspan class="tenue">: ...................... </tspan><tspan class="valor">Ingeniería de Sistemas</tspan></tspan>
+<tspan x="420" y="144"><tspan class="clave">Proceso activo</tspan><tspan class="tenue">: ........ </tspan><tspan class="valor">Avirexis (SaaS restaurantes)</tspan></tspan>
+<tspan x="420" y="164"><tspan class="clave">IDE</tspan><tspan class="tenue">: ........................ </tspan><tspan class="valor">VS Code, Android Studio</tspan></tspan>
+<tspan x="420" y="184"></tspan>
+<tspan x="420" y="204"><tspan class="clave">Lenguajes.Código</tspan><tspan class="tenue">: .. </tspan><tspan class="valor">TypeScript, Python, Java, Kotlin</tspan></tspan>
+<tspan x="420" y="224"><tspan class="clave">Lenguajes.Datos</tspan><tspan class="tenue">: .................... </tspan><tspan class="valor">SQL, JSON, YAML</tspan></tspan>
+<tspan x="420" y="244"><tspan class="clave">Stack.Backend</tspan><tspan class="tenue">: .......... </tspan><tspan class="valor">Node.js, Spring, PostgreSQL</tspan></tspan>
+<tspan x="420" y="264"><tspan class="clave">Stack.Frontend</tspan><tspan class="tenue">: ............... </tspan><tspan class="valor">Angular, React Native</tspan></tspan>
+<tspan x="420" y="284"><tspan class="clave">Aprendiendo</tspan><tspan class="tenue">: ................ </tspan><tspan class="valor">Agentes de IA, MCP, RAG</tspan></tspan>
+<tspan x="420" y="304"><tspan class="clave">Hobbies</tspan><tspan class="tenue">: ......................... </tspan><tspan class="valor">Moto, música, café</tspan></tspan>
+<tspan x="420" y="324"></tspan>
+<tspan x="420" y="344"><tspan class="clave">Contacto </tspan><tspan class="tenue">─────────────────────────────────────────────</tspan></tspan>
+<tspan x="420" y="364"><tspan class="clave">Email</tspan><tspan class="tenue">: ............. </tspan><tspan class="valor">gutierrez.miguel.elias@gmail.com</tspan></tspan>
+<tspan x="420" y="384"><tspan class="clave">LinkedIn</tspan><tspan class="tenue">: .................... </tspan><tspan class="valor">miguel-elias-gutierrez</tspan></tspan>
+<tspan x="420" y="404"><tspan class="clave">Web</tspan><tspan class="tenue">: ................................... </tspan><tspan class="valor">avirexis.com</tspan></tspan>
+<tspan x="420" y="424"></tspan>
+<tspan x="420" y="444"><tspan class="clave">GitHub </tspan><tspan class="tenue">───────────────────────────────────────────────</tspan></tspan>
+<tspan x="420" y="464"><tspan class="clave">Repos</tspan><tspan class="tenue">: ........................................... </tspan><tspan class="valor">28</tspan></tspan>
+<tspan x="420" y="484"><tspan class="clave">Contribuciones (año)</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">393</tspan></tspan>
+<tspan x="420" y="504"><tspan class="clave">Racha</tspan><tspan class="tenue">: .......................... </tspan><tspan class="valor">10 días (mejor: 15)</tspan></tspan>
+<tspan x="420" y="524"><tspan class="clave">Commits analizados</tspan><tspan class="tenue">: ............................. </tspan><tspan class="valor">547</tspan></tspan>
+<tspan x="420" y="544"><tspan class="clave">Líneas de código</tspan><tspan class="tenue">: ..... </tspan><tspan class="valor">238.908</tspan><tspan class="tenue"> ( </tspan><tspan class="suma">+267.936</tspan><tspan class="tenue">, </tspan><tspan class="resta">-29.028</tspan><tspan class="tenue"> )</tspan></tspan>
+</text>
+</svg>

@@ -11,18 +11,15 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tarjeta-oscuro.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/tarjeta-claro.svg" />
+  <img width="100%" src="assets/tarjeta-oscuro.svg" alt="Elias Gutiérrez: estudiante de Ingeniería de Sistemas en la Universidad El Bosque, fundador de Avirexis. TypeScript, Python, Java, Kotlin, Node.js, PostgreSQL." />
+</picture>
+
 ## Sobre mí
 
-<img align="right" width="420" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eliasgdev&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estad%C3%ADsticas%20en%20GitHub&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
-
 Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y construyo software que usan negocios reales. Me gusta el backend: diseñar la base de datos, que la API no se caiga y conectar con servicios que no tienen documentación.
-
-- **Construyendo:** Avirexis, un SaaS para restaurantes con facturación electrónica DIAN
-- **Aprendiendo:** agentes de IA, MCP, RAG con pgvector y sistemas distribuidos
-- **Me interesa:** sistemas offline-first, integraciones con el Estado y automatización
-- **Fuera del código:** moto, música y café
-
-<br clear="right" />
 
 ## Stack
 
@@ -76,6 +73,31 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 </details>
 
+## ¿Cuándo programo?
+
+<!-- HORARIO:INICIO -->
+**Programo más en la tarde, después de clase.** El día que más commits hago es el **lunes**.
+
+```text
+Madrugada (00–06)     99 commits   █████░░░░░░░░░░░░░░░░░░░░   18.1 %
+Mañana (06–12)        91 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.6 %
+Tarde (12–18)        196 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
+Noche (18–24)        161 commits   ███████░░░░░░░░░░░░░░░░░░   29.4 %
+```
+
+```text
+Lunes                118 commits   █████░░░░░░░░░░░░░░░░░░░░   21.6 %
+Martes                59 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.8 %
+Miércoles             86 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.7 %
+Jueves                97 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.7 %
+Viernes               82 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.0 %
+Sábado                22 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    4.0 %
+Domingo               83 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.2 %
+```
+
+<sub>Calculado con 547 commits en hora de Bogotá · 2026-11-05</sub>
+<!-- HORARIO:FIN -->
+
 ## Commit del día
 
 <!-- DIA:INICIO -->
@@ -102,4 +124,4 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2f81f7,45:1f3a68,100:0d1117" width="100%" alt="" />
 
-<div align="center"><sub>Este README se actualiza solo cada día con un GitHub Action · <a href="scripts/actualizar-readme.mjs">ver cómo</a></sub></div>
+<div align="center"><sub>La tarjeta, el horario y el chiste se actualizan solos cada día con un GitHub Action · <a href="scripts/tarjeta.mjs">ver cómo</a></sub></div>
