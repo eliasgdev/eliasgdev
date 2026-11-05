@@ -19,7 +19,11 @@
 
 ## Sobre mí
 
+<img align="right" width="150" src="assets/avatar.gif" alt="Bogotá al atardecer con Monserrate y una moto en la vía" />
+
 Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y construyo software que usan negocios reales. Me gusta el backend: diseñar la base de datos, que la API no se caiga y conectar con servicios que no tienen documentación.
+
+<br clear="right" />
 
 ## Stack
 
