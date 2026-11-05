@@ -80,38 +80,38 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 ## ¿Cuándo programo?
 
 <!-- HORARIO:INICIO -->
-**Programo más en la tarde, después de clase.** El día que más commits hago es el **lunes**.
+**Programo más en la tarde, después de clase.** El día que más commits hago es el **jueves**.
 
 ```text
-Madrugada (00–06)     99 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.8 %
-Mañana (06–12)        98 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.6 %
-Tarde (12–18)        196 commits   █████████░░░░░░░░░░░░░░░░   35.3 %
-Noche (18–24)        163 commits   ███████░░░░░░░░░░░░░░░░░░   29.3 %
+Madrugada (00–06)      0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
+Mañana (06–12)         4 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    7.5 %
+Tarde (12–18)         28 commits   █████████████░░░░░░░░░░░░   52.8 %
+Noche (18–24)         21 commits   ██████████░░░░░░░░░░░░░░░   39.6 %
 ```
 
 ```text
-Lunes                118 commits   █████░░░░░░░░░░░░░░░░░░░░   21.2 %
-Martes                59 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.6 %
-Miércoles             88 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.8 %
-Jueves               104 commits   █████░░░░░░░░░░░░░░░░░░░░   18.7 %
-Viernes               82 commits   ████░░░░░░░░░░░░░░░░░░░░░   14.7 %
-Sábado                22 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    4.0 %
-Domingo               83 commits   ████░░░░░░░░░░░░░░░░░░░░░   14.9 %
+Lunes                  7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.2 %
+Martes                 5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4 %
+Miércoles              3 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    5.7 %
+Jueves                19 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
+Viernes               19 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
+Sábado                 0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
+Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 556 commits en hora de Bogotá · 2026-11-05</sub>
+<sub>Calculado con 53 commits en hora de Bogotá · 2026-11-05</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> —En mi máquina funciona. —Perfecto, entonces subimos tu máquina a producción.
+> ¿Por qué los programadores confunden Halloween con Navidad? Porque OCT 31 = DEC 25.
 
 > **¿Sabías que...?**<br>
-> El 19 de enero de 2038 se desbordan los sistemas que guardan el tiempo Unix en un entero de 32 bits con signo. Es el problema del año 2038.
+> Grace Hopper creó en 1952 el A-0, considerado uno de los primeros compiladores.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-04</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-05</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
