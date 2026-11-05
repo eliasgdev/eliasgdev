@@ -83,23 +83,23 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 **Programo más en la tarde, después de clase.** El día que más commits hago es el **lunes**.
 
 ```text
-Madrugada (00–06)     99 commits   █████░░░░░░░░░░░░░░░░░░░░   18.1 %
-Mañana (06–12)        91 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.6 %
-Tarde (12–18)        196 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
-Noche (18–24)        161 commits   ███████░░░░░░░░░░░░░░░░░░   29.4 %
+Madrugada (00–06)     99 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.8 %
+Mañana (06–12)        98 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.6 %
+Tarde (12–18)        196 commits   █████████░░░░░░░░░░░░░░░░   35.3 %
+Noche (18–24)        163 commits   ███████░░░░░░░░░░░░░░░░░░   29.3 %
 ```
 
 ```text
-Lunes                118 commits   █████░░░░░░░░░░░░░░░░░░░░   21.6 %
-Martes                59 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.8 %
-Miércoles             86 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.7 %
-Jueves                97 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.7 %
-Viernes               82 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.0 %
+Lunes                118 commits   █████░░░░░░░░░░░░░░░░░░░░   21.2 %
+Martes                59 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.6 %
+Miércoles             88 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.8 %
+Jueves               104 commits   █████░░░░░░░░░░░░░░░░░░░░   18.7 %
+Viernes               82 commits   ████░░░░░░░░░░░░░░░░░░░░░   14.7 %
 Sábado                22 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    4.0 %
-Domingo               83 commits   ████░░░░░░░░░░░░░░░░░░░░░   15.2 %
+Domingo               83 commits   ████░░░░░░░░░░░░░░░░░░░░░   14.9 %
 ```
 
-<sub>Calculado con 547 commits en hora de Bogotá · 2026-11-05</sub>
+<sub>Calculado con 556 commits en hora de Bogotá · 2026-11-05</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día

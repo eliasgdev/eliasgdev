@@ -161,22 +161,35 @@ const texto = [
 ];
 
 const arte = readFileSync(new URL('scripts/arte.txt', raiz), 'utf8').replace(/\n$/, '').split('\n');
-const HORIZONTE = arte.findIndex((l) => /^~+$/.test(l));
-// Color por carácter: cielo arriba, sol en el medio, montañas y agua abajo.
-const claseArte = (fila, ch) => {
-  if (ch === '~' && fila >= HORIZONTE) return 'agua';
-  if ('/\\V_'.includes(ch) && fila >= HORIZONTE - 4) return 'montana';
-  if (fila < HORIZONTE - 7 || ch === '*') return 'cielo';
-  return 'sol';
+// Bogotá al atardecer, igual que la foto de perfil. El color sale de la fila
+// (cielo, cerros, ciudad, vía) y del carácter.
+const VIAS = arte.flatMap((l, i) => (/^=+$/.test(l) ? [i] : []));
+const CIUDAD = arte.findIndex((l) => l.includes('||'));
+const SOL = arte.findIndex((l) => l.includes('~~~'));
+const SOL_COLS = [arte[SOL].indexOf('.-~') - 2, arte[SOL].lastIndexOf('~-.') + 4];
+const claseArte = (fila, ch, col) => {
+  if (fila >= VIAS[0]) {
+    if ('=-'.includes(ch)) return 'via';
+    return 'moto';
+  }
+  if (fila >= CIUDAD) {
+    if (':.'.includes(ch)) return 'ventana';
+    return 'edificio';
+  }
+  if ('/\\V^'.includes(ch)) return 'montana';
+  if ('+n|_!'.includes(ch)) return 'iglesia';
+  if ((fila === SOL || fila === SOL + 1) && ".-~'".includes(ch) && col >= SOL_COLS[0] && col <= SOL_COLS[1]) return 'sol';
+  if (fila >= SOL - 1 && ch === '.') return 'roca';
+  return 'cielo';
 };
 const trozosArte = (l, fila) => {
   const trozos = [];
-  for (const ch of l) {
-    const clase = ch === ' ' ? null : claseArte(fila, ch);
+  [...l].forEach((ch, col) => {
+    const clase = ch === ' ' ? null : claseArte(fila, ch, col);
     const ultimo = trozos.at(-1);
     if (ultimo && (ultimo[0] === clase || ch === ' ')) ultimo[1] += ch;
     else trozos.push([clase, ch]);
-  }
+  });
   return trozos;
 };
 
@@ -187,8 +200,8 @@ const alto = filas * ALTO_LINEA + MARGEN * 2 - 6;
 const desplazamientoArte = Math.floor((filas - arte.length) / 2);
 
 const temas = {
-  oscuro: { fondo: '#0d1117', borde: '#30363d', clave: '#58a6ff', valor: '#e6edf3', tenue: '#484f58', usuario: '#79c0ff', suma: '#3fb950', resta: '#f85149', cielo: '#6e7681', sol: '#f0883e', montana: '#2f81f7', agua: '#39c5cf' },
-  claro: { fondo: '#f6f8fa', borde: '#d0d7de', clave: '#0550ae', valor: '#1f2328', tenue: '#afb8c1', usuario: '#0969da', suma: '#1a7f37', resta: '#cf222e', cielo: '#8c959f', sol: '#bc4c00', montana: '#0969da', agua: '#1b7c83' },
+  oscuro: { fondo: '#0d1117', borde: '#30363d', clave: '#58a6ff', valor: '#e6edf3', tenue: '#484f58', usuario: '#79c0ff', suma: '#3fb950', resta: '#f85149', cielo: '#6e7681', sol: '#f0883e', montana: '#2f81f7', iglesia: '#e6edf3', roca: '#1f3a68', edificio: '#6e7681', ventana: '#e3b341', via: '#484f58', moto: '#e6edf3' },
+  claro: { fondo: '#f6f8fa', borde: '#d0d7de', clave: '#0550ae', valor: '#1f2328', tenue: '#afb8c1', usuario: '#0969da', suma: '#1a7f37', resta: '#cf222e', cielo: '#8c959f', sol: '#bc4c00', montana: '#0969da', iglesia: '#57606a', roca: '#b6c8e6', edificio: '#6e7781', ventana: '#9a6700', via: '#afb8c1', moto: '#1f2328' },
 };
 
 function svg(t) {

@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" width="985" height="574" font-size="16px">
-<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}.clave{fill:#58a6ff}.valor{fill:#e6edf3}.tenue{fill:#484f58}.usuario{fill:#79c0ff}.suma{fill:#3fb950}.resta{fill:#f85149}.cielo{fill:#6e7681}.sol{fill:#f0883e}.montana{fill:#2f81f7}.agua{fill:#39c5cf}text,tspan{white-space:pre}</style>
+<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}.clave{fill:#58a6ff}.valor{fill:#e6edf3}.tenue{fill:#484f58}.usuario{fill:#79c0ff}.suma{fill:#3fb950}.resta{fill:#f85149}.cielo{fill:#6e7681}.sol{fill:#f0883e}.montana{fill:#2f81f7}.iglesia{fill:#e6edf3}.roca{fill:#1f3a68}.edificio{fill:#6e7681}.ventana{fill:#e3b341}.via{fill:#484f58}.moto{fill:#e6edf3}text,tspan{white-space:pre}</style>
 <rect width="985" height="574" fill="#0d1117" rx="15" stroke="#30363d" stroke-width="1"/>
 <text xml:space="preserve">
-<tspan x="30" y="64">   <tspan class="cielo">.          *            .</tspan></tspan>
-<tspan x="30" y="84">         <tspan class="cielo">.          .           *</tspan></tspan>
-<tspan x="30" y="104">  <tspan class="cielo">*            .         .</tspan></tspan>
-<tspan x="30" y="124">        <tspan class="cielo">.            *         .</tspan></tspan>
-<tspan x="30" y="144">              <tspan class="cielo">.</tspan></tspan>
-<tspan x="30" y="164">    <tspan class="cielo">.                    .      *</tspan></tspan>
-<tspan x="30" y="184">          <tspan class="cielo">*        .</tspan></tspan>
-<tspan x="30" y="204">             <tspan class="sol">.-~~~~~~~-.</tspan></tspan>
-<tspan x="30" y="224">          <tspan class="sol">.-'           '-.</tspan></tspan>
-<tspan x="30" y="244">        <tspan class="sol">.'                 '.</tspan></tspan>
-<tspan x="30" y="264">  <tspan class="montana">/\   </tspan><tspan class="sol">(                     )  </tspan><tspan class="montana">/\</tspan></tspan>
-<tspan x="30" y="284"> <tspan class="montana">/  \ /                       \/  \</tspan></tspan>
-<tspan x="30" y="304"><tspan class="montana">/    V    /\             /\        \</tspan></tspan>
-<tspan x="30" y="324">         <tspan class="montana">/  \_   /\     /  \_</tspan></tspan>
-<tspan x="30" y="344"><tspan class="agua">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan></tspan>
-<tspan x="30" y="364">   <tspan class="agua">~~~~      ~~~~~~~~~     ~~~~</tspan></tspan>
-<tspan x="30" y="384">        <tspan class="agua">~~~~~~       ~~~~~~    ~~~</tspan></tspan>
-<tspan x="30" y="404">  <tspan class="agua">~~~         ~~~~~~      ~~~~~~</tspan></tspan>
-<tspan x="30" y="424">      <tspan class="agua">~~~~~~~      ~~~~~        ~~</tspan></tspan>
-<tspan x="30" y="444"> <tspan class="agua">~~~~       ~~~~~       ~~~~~~</tspan></tspan>
-<tspan x="30" y="464">         <tspan class="agua">~~~~~~   ~~~~~~~~    ~~~~</tspan></tspan>
-<tspan x="30" y="484">   <tspan class="agua">~~~~~~      ~~~~      ~~~~~</tspan></tspan>
-<tspan x="30" y="504">        <tspan class="agua">~~~~~       ~~~~~~~     ~~</tspan></tspan>
-<tspan x="30" y="524">  <tspan class="agua">~~~         ~~~~~~      ~~~~</tspan></tspan>
+<tspan x="30" y="104">   <tspan class="cielo">.        *          .      *</tspan></tspan>
+<tspan x="30" y="124">        <tspan class="cielo">.         .         .</tspan></tspan>
+<tspan x="30" y="144">  <tspan class="cielo">*           .        *          .</tspan></tspan>
+<tspan x="30" y="164">       <tspan class="iglesia">+                    </tspan><tspan class="cielo">.</tspan></tspan>
+<tspan x="30" y="184">      <tspan class="iglesia">_|_          </tspan><tspan class="cielo">.</tspan></tspan>
+<tspan x="30" y="204">     <tspan class="iglesia">|_n_|                 !</tspan></tspan>
+<tspan x="30" y="224">     <tspan class="montana">/   \               </tspan><tspan class="iglesia">_</tspan><tspan class="montana">/^\</tspan><tspan class="iglesia">_</tspan></tspan>
+<tspan x="30" y="244">    <tspan class="montana">/ </tspan><tspan class="roca">. . </tspan><tspan class="montana">\    </tspan><tspan class="sol">.-~~~-.  </tspan><tspan class="montana">/  </tspan><tspan class="roca">.  </tspan><tspan class="montana">\</tspan></tspan>
+<tspan x="30" y="264">   <tspan class="montana">/ </tspan><tspan class="roca">.  .  </tspan><tspan class="montana">\ </tspan><tspan class="sol">.'       '.</tspan><tspan class="montana">/ </tspan><tspan class="roca">.  .  </tspan><tspan class="montana">\</tspan></tspan>
+<tspan x="30" y="284">  <tspan class="montana">/  </tspan><tspan class="roca">.  .   </tspan><tspan class="montana">\/   </tspan><tspan class="roca">. .   </tspan><tspan class="montana">/ </tspan><tspan class="roca">.   .   </tspan><tspan class="montana">\</tspan><tspan class="iglesia">_</tspan></tspan>
+<tspan x="30" y="304"> <tspan class="montana">/  </tspan><tspan class="roca">.   . .  </tspan><tspan class="montana">\  </tspan><tspan class="roca">.   . </tspan><tspan class="montana">/   </tspan><tspan class="roca">.  .    </tspan><tspan class="montana">\</tspan></tspan>
+<tspan x="30" y="324"><tspan class="montana">/ </tspan><tspan class="roca">.  .    .   </tspan><tspan class="montana">\/  </tspan><tspan class="roca">.  </tspan><tspan class="montana">\/  </tspan><tspan class="roca">.   .   .  </tspan><tspan class="montana">\</tspan></tspan>
+<tspan x="30" y="344">           <tspan class="edificio">_||_        ||</tspan></tspan>
+<tspan x="30" y="364">  <tspan class="edificio">_   __  |</tspan><tspan class="ventana">.:.:</tspan><tspan class="edificio">|  _    ||   __   _</tspan></tspan>
+<tspan x="30" y="384"> <tspan class="edificio">| |_|</tspan><tspan class="ventana">::</tspan><tspan class="edificio">|_|</tspan><tspan class="ventana">:.:.</tspan><tspan class="edificio">|_|</tspan><tspan class="ventana">:</tspan><tspan class="edificio">|__|</tspan><tspan class="ventana">::</tspan><tspan class="edificio">|_|</tspan><tspan class="ventana">::</tspan><tspan class="edificio">|_|</tspan><tspan class="ventana">.</tspan><tspan class="edificio">|_</tspan></tspan>
+<tspan x="30" y="404"> <tspan class="edificio">|</tspan><tspan class="ventana">:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.:.:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">:.:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">.:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">:.</tspan><tspan class="edificio">|</tspan><tspan class="ventana">:</tspan><tspan class="edificio">|</tspan><tspan class="ventana">:.</tspan><tspan class="edificio">|</tspan></tspan>
+<tspan x="30" y="424"><tspan class="via">=====================================</tspan></tspan>
+<tspan x="30" y="444">  <tspan class="via">--     --     --    </tspan><tspan class="moto">__o    </tspan><tspan class="via">--   --</tspan></tspan>
+<tspan x="30" y="464">             <tspan class="via">-=  -=</tspan><tspan class="moto">(_)'</tspan><tspan class="via">-</tspan><tspan class="moto">(_)</tspan></tspan>
+<tspan x="30" y="484"><tspan class="via">=====================================</tspan></tspan>
 </text>
 <text xml:space="preserve">
 <tspan x="420" y="44"><tspan class="usuario">elias</tspan><tspan class="tenue">@</tspan><tspan class="usuario">eliasgdev</tspan><tspan class="tenue"> ──────────────────────────────────────</tspan></tspan>
@@ -51,9 +47,9 @@
 <tspan x="420" y="424"></tspan>
 <tspan x="420" y="444"><tspan class="clave">GitHub </tspan><tspan class="tenue">───────────────────────────────────────────────</tspan></tspan>
 <tspan x="420" y="464"><tspan class="clave">Repos</tspan><tspan class="tenue">: ........................................... </tspan><tspan class="valor">28</tspan></tspan>
-<tspan x="420" y="484"><tspan class="clave">Contribuciones (año)</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">393</tspan></tspan>
-<tspan x="420" y="504"><tspan class="clave">Racha</tspan><tspan class="tenue">: .......................... </tspan><tspan class="valor">10 días (mejor: 15)</tspan></tspan>
-<tspan x="420" y="524"><tspan class="clave">Commits analizados</tspan><tspan class="tenue">: ............................. </tspan><tspan class="valor">547</tspan></tspan>
-<tspan x="420" y="544"><tspan class="clave">Líneas de código</tspan><tspan class="tenue">: ..... </tspan><tspan class="valor">238.908</tspan><tspan class="tenue"> ( </tspan><tspan class="suma">+267.936</tspan><tspan class="tenue">, </tspan><tspan class="resta">-29.028</tspan><tspan class="tenue"> )</tspan></tspan>
+<tspan x="420" y="484"><tspan class="clave">Contribuciones (año)</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">409</tspan></tspan>
+<tspan x="420" y="504"><tspan class="clave">Racha</tspan><tspan class="tenue">: .......................... </tspan><tspan class="valor">11 días (mejor: 15)</tspan></tspan>
+<tspan x="420" y="524"><tspan class="clave">Commits analizados</tspan><tspan class="tenue">: ............................. </tspan><tspan class="valor">556</tspan></tspan>
+<tspan x="420" y="544"><tspan class="clave">Líneas de código</tspan><tspan class="tenue">: ..... </tspan><tspan class="valor">244.884</tspan><tspan class="tenue"> ( </tspan><tspan class="suma">+275.027</tspan><tspan class="tenue">, </tspan><tspan class="resta">-30.143</tspan><tspan class="tenue"> )</tspan></tspan>
 </text>
 </svg>
