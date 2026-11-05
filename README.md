@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyo+APIs%2C+bases+de+datos+y+apps+que+funcionan+sin+internet;Fundador+de+Avirexis%2C+un+SaaS+para+restaurantes;Facturaci%C3%B3n+electr%C3%B3nica+DIAN+desde+cero;git+commit+-m+%22ahora+s%C3%AD+funciona%22" alt="Construyo APIs, bases de datos y apps que funcionan sin internet" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyo+APIs%2C+bases+de+datos+y+apps+que+funcionan+sin+internet;Fundador+de+Avirexis%2C+un+SaaS+para+negocios;Facturaci%C3%B3n+electr%C3%B3nica+DIAN+desde+cero;git+commit+-m+%22ahora+s%C3%AD+funciona%22" alt="Construyo APIs, bases de datos y apps que funcionan sin internet" />
 
 <a href="https://www.linkedin.com/in/miguel-elias-gutierrez-895ab91b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gutierrez.miguel.elias@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -32,7 +32,7 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque, en Bogotá, y const
 
 ## Proyecto principal: Avirexis
 
-> SaaS multiempresa para restaurantes en Colombia, en producción en [avirexis.com](https://avirexis.com). *Código privado.*
+> SaaS multiempresa para restaurantes, tiendas y todo tipo de negocios en Colombia, en producción en [avirexis.com](https://avirexis.com). *Código privado.*
 
 | Módulo | Qué resuelve |
 |---|---|
@@ -63,7 +63,7 @@ a1f0c3e  init: primer "Hola mundo" en Java
 b72d9e1  feat: estructuras de datos y algoritmos (ejercicios-java)
 c3e81a4  feat: primeras APIs REST con Node.js, JWT y SQLite
 d94b0f7  feat: proyecto de bases de datos con Angular y PostgreSQL
-e5a2c18  feat: fundar Avirexis, un SaaS para restaurantes
+e5a2c18  feat: fundar Avirexis, un SaaS para negocios
 f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 0a7e4b3  feat: app Android de emergencias en Kotlin (SilentSOS)
 1b8f5c4  fix: dormir más (pendiente desde 2023)

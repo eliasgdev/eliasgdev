@@ -128,11 +128,11 @@ const vacia = () => linea();
 
 const texto = [
   linea(['usuario', 'elias'], ['tenue', '@'], ['usuario', 'eliasgdev'], ['tenue', ' ' + '─'.repeat(ANCHO - 16)]),
-  dato('SO', 'Fedora Linux, Android'),
+  dato('SO', 'Fedora Linux, Windows, Android'),
   dato('Uptime', uptime(user.createdAt.slice(0, 10), hoy)),
   dato('Host', 'Universidad El Bosque, Bogotá'),
   dato('Kernel', 'Ingeniería de Sistemas'),
-  dato('Proceso activo', 'Avirexis (SaaS restaurantes)'),
+  dato('Proceso activo', 'Avirexis, SaaS para negocios'),
   dato('IDE', 'VS Code, Android Studio'),
   vacia(),
   dato('Lenguajes.Código', 'TypeScript, Python, Java, Kotlin'),
