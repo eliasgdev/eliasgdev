@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 53 commits en hora de Bogotá · 2026-11-05</sub>
+<sub>Calculado con 53 commits en hora de Bogotá · 2026-11-06</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> ¿Por qué los programadores confunden Halloween con Navidad? Porque OCT 31 = DEC 25.
+> Un QA entra a un bar. Pide 1 cerveza. Pide 0 cervezas. Pide 99999999 cervezas. Pide -1 cervezas. Pide un lagarto. Entra el primer cliente real, pregunta dónde está el baño y el bar se incendia.
 
 > **¿Sabías que...?**<br>
-> Grace Hopper creó en 1952 el A-0, considerado uno de los primeros compiladores.
+> El "Hello, World!" se hizo famoso con el libro The C Programming Language de Kernighan y Ritchie, de 1978.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-05</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-06</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
