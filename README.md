@@ -84,34 +84,34 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 ```text
 Madrugada (00–06)      0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Mañana (06–12)         4 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    7.5 %
-Tarde (12–18)         28 commits   █████████████░░░░░░░░░░░░   52.8 %
-Noche (18–24)         21 commits   ██████████░░░░░░░░░░░░░░░   39.6 %
+Mañana (06–12)         5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
+Tarde (12–18)         28 commits   █████████████░░░░░░░░░░░░   50.9 %
+Noche (18–24)         22 commits   ██████████░░░░░░░░░░░░░░░   40.0 %
 ```
 
 ```text
-Lunes                  7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.2 %
-Martes                 5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4 %
-Miércoles              3 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    5.7 %
-Jueves                19 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
-Viernes               19 commits   █████████░░░░░░░░░░░░░░░░   35.8 %
+Lunes                  7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   12.7 %
+Martes                 5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
+Miércoles              3 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    5.5 %
+Jueves                20 commits   █████████░░░░░░░░░░░░░░░░   36.4 %
+Viernes               20 commits   █████████░░░░░░░░░░░░░░░░   36.4 %
 Sábado                 0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 53 commits en hora de Bogotá · 2026-11-06</sub>
+<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-07</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Un QA entra a un bar. Pide 1 cerveza. Pide 0 cervezas. Pide 99999999 cervezas. Pide -1 cervezas. Pide un lagarto. Entra el primer cliente real, pregunta dónde está el baño y el bar se incendia.
+> Las dos cosas más difíciles en programación son invalidar la caché, ponerle nombre a las cosas y los errores por uno.
 
 > **¿Sabías que...?**<br>
-> El "Hello, World!" se hizo famoso con el libro The C Programming Language de Kernighan y Ritchie, de 1978.
+> El primer disco duro comercial, el IBM 350 de 1956, guardaba unos 5 MB y pesaba cerca de una tonelada.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-06</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-07</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
