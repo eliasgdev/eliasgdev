@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-07</sub>
+<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-08</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Las dos cosas más difíciles en programación son invalidar la caché, ponerle nombre a las cosas y los errores por uno.
+> 99 bugs en el código. Arreglo uno y compilo de nuevo. 127 bugs en el código.
 
 > **¿Sabías que...?**<br>
-> El primer disco duro comercial, el IBM 350 de 1956, guardaba unos 5 MB y pesaba cerca de una tonelada.
+> Linus Torvalds escribió Git en 2005, en unas dos semanas, cuando el kernel de Linux se quedó sin licencia gratuita de BitKeeper.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-07</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-08</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
