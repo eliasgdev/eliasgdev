@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-08</sub>
+<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-09</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> 99 bugs en el código. Arreglo uno y compilo de nuevo. 127 bugs en el código.
+> Le dicen a un programador: "trae un litro de leche y, si hay huevos, trae seis". Volvió con seis litros de leche.
 
 > **¿Sabías que...?**<br>
-> Linus Torvalds escribió Git en 2005, en unas dos semanas, cuando el kernel de Linux se quedó sin licencia gratuita de BitKeeper.
+> SQL nació en IBM en los años 70 y al principio se llamaba SEQUEL. Tuvo que cambiar de nombre por una marca registrada.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-08</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-09</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
