@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-09</sub>
+<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-10</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Le dicen a un programador: "trae un litro de leche y, si hay huevos, trae seis". Volvió con seis litros de leche.
+> ¿Cuántos programadores se necesitan para cambiar un bombillo? Ninguno, eso es un problema de hardware.
 
 > **¿Sabías que...?**<br>
-> SQL nació en IBM en los años 70 y al principio se llamaba SEQUEL. Tuvo que cambiar de nombre por una marca registrada.
+> Desde noviembre de 2017, los 500 supercomputadores más potentes del mundo usan Linux.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-09</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-10</sub>
 <!-- DIA:FIN -->
 
 ## Actividad

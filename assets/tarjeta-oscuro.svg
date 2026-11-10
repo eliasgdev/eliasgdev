@@ -27,7 +27,7 @@
 <text xml:space="preserve">
 <tspan x="420" y="44"><tspan class="usuario">elias</tspan><tspan class="tenue">@</tspan><tspan class="usuario">eliasgdev</tspan><tspan class="tenue"> ──────────────────────────────────────</tspan></tspan>
 <tspan x="420" y="64"><tspan class="clave">SO</tspan><tspan class="tenue">: .................. </tspan><tspan class="valor">Fedora Linux, Windows, Android</tspan></tspan>
-<tspan x="420" y="84"><tspan class="clave">Uptime</tspan><tspan class="tenue">: ...................... </tspan><tspan class="valor">1 año, 9 meses, 0 días</tspan></tspan>
+<tspan x="420" y="84"><tspan class="clave">Uptime</tspan><tspan class="tenue">: ....................... </tspan><tspan class="valor">1 año, 9 meses, 1 día</tspan></tspan>
 <tspan x="420" y="104"><tspan class="clave">Host</tspan><tspan class="tenue">: ................. </tspan><tspan class="valor">Universidad El Bosque, Bogotá</tspan></tspan>
 <tspan x="420" y="124"><tspan class="clave">Kernel</tspan><tspan class="tenue">: ...................... </tspan><tspan class="valor">Ingeniería de Sistemas</tspan></tspan>
 <tspan x="420" y="144"><tspan class="clave">Proceso activo</tspan><tspan class="tenue">: ........ </tspan><tspan class="valor">Avirexis, SaaS para negocios</tspan></tspan>
@@ -47,8 +47,8 @@
 <tspan x="420" y="424"></tspan>
 <tspan x="420" y="444"><tspan class="clave">GitHub </tspan><tspan class="tenue">───────────────────────────────────────────────</tspan></tspan>
 <tspan x="420" y="464"><tspan class="clave">Repos</tspan><tspan class="tenue">: ........................................... </tspan><tspan class="valor">14</tspan></tspan>
-<tspan x="420" y="484"><tspan class="clave">Contribuciones (año)</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">517</tspan></tspan>
-<tspan x="420" y="504"><tspan class="clave">Racha</tspan><tspan class="tenue">: .......................... </tspan><tspan class="valor">14 días (mejor: 15)</tspan></tspan>
+<tspan x="420" y="484"><tspan class="clave">Contribuciones (año)</tspan><tspan class="tenue">: ........................... </tspan><tspan class="valor">528</tspan></tspan>
+<tspan x="420" y="504"><tspan class="clave">Racha</tspan><tspan class="tenue">: .......................... </tspan><tspan class="valor">16 días (mejor: 16)</tspan></tspan>
 <tspan x="420" y="524"><tspan class="clave">Commits analizados</tspan><tspan class="tenue">: .............................. </tspan><tspan class="valor">55</tspan></tspan>
 <tspan x="420" y="544"><tspan class="clave">Líneas de código</tspan><tspan class="tenue">: ........ </tspan><tspan class="valor">48.499</tspan><tspan class="tenue"> ( </tspan><tspan class="suma">+51.023</tspan><tspan class="tenue">, </tspan><tspan class="resta">-2.524</tspan><tspan class="tenue"> )</tspan></tspan>
 </text>
