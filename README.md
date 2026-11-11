@@ -84,34 +84,34 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 
 ```text
 Madrugada (00–06)      0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Mañana (06–12)         5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
-Tarde (12–18)         28 commits   █████████████░░░░░░░░░░░░   50.9 %
-Noche (18–24)         22 commits   ██████████░░░░░░░░░░░░░░░   40.0 %
+Mañana (06–12)         7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.8 %
+Tarde (12–18)         30 commits   ████████████░░░░░░░░░░░░░   46.2 %
+Noche (18–24)         28 commits   ███████████░░░░░░░░░░░░░░   43.1 %
 ```
 
 ```text
-Lunes                  7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   12.7 %
-Martes                 5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
-Miércoles              3 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    5.5 %
-Jueves                20 commits   █████████░░░░░░░░░░░░░░░░   36.4 %
-Viernes               20 commits   █████████░░░░░░░░░░░░░░░░   36.4 %
+Lunes                 15 commits   ██████░░░░░░░░░░░░░░░░░░░   23.1 %
+Martes                 6 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.2 %
+Miércoles              4 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    6.2 %
+Jueves                20 commits   ████████░░░░░░░░░░░░░░░░░   30.8 %
+Viernes               20 commits   ████████░░░░░░░░░░░░░░░░░   30.8 %
 Sábado                 0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 55 commits en hora de Bogotá · 2026-11-10</sub>
+<sub>Calculado con 65 commits en hora de Bogotá · 2026-11-11</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> ¿Cuántos programadores se necesitan para cambiar un bombillo? Ninguno, eso es un problema de hardware.
+> Hace tres meses: "este código se explica solo". Hoy: "¿quién escribió esto?". git blame: yo.
 
 > **¿Sabías que...?**<br>
-> Desde noviembre de 2017, los 500 supercomputadores más potentes del mundo usan Linux.
+> El primer emoji de la historia se atribuye a Shigetaka Kurita, que en 1999 diseñó un set de 176 íconos de 12×12 píxeles.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-10</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-11</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
