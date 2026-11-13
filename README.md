@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 65 commits en hora de Bogotá · 2026-11-12</sub>
+<sub>Calculado con 65 commits en hora de Bogotá · 2026-11-13</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Mi código no tiene bugs, tiene funcionalidades sorpresa.
+> Una consulta SQL entra a un bar, se acerca a dos tablas y pregunta: "¿me puedo unir?".
 
 > **¿Sabías que...?**<br>
-> Python se llama así por el grupo de comedia Monty Python, no por la serpiente.
+> El código del computador de guía del Apollo 11, del equipo de Margaret Hamilton, está publicado en GitHub.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-12</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-13</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
