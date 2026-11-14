@@ -80,38 +80,38 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 ## ¿Cuándo programo?
 
 <!-- HORARIO:INICIO -->
-**Programo más en la tarde, después de clase.** El día que más commits hago es el **jueves**.
+**Programo más en la tarde, después de clase.** El día que más commits hago es el **viernes**.
 
 ```text
 Madrugada (00–06)      0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Mañana (06–12)         7 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.8 %
-Tarde (12–18)         30 commits   ████████████░░░░░░░░░░░░░   46.2 %
-Noche (18–24)         28 commits   ███████████░░░░░░░░░░░░░░   43.1 %
+Mañana (06–12)         8 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.9 %
+Tarde (12–18)         31 commits   ████████████░░░░░░░░░░░░░   46.3 %
+Noche (18–24)         28 commits   ██████████░░░░░░░░░░░░░░░   41.8 %
 ```
 
 ```text
-Lunes                 15 commits   ██████░░░░░░░░░░░░░░░░░░░   23.1 %
-Martes                 6 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.2 %
-Miércoles              4 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    6.2 %
-Jueves                20 commits   ████████░░░░░░░░░░░░░░░░░   30.8 %
-Viernes               20 commits   ████████░░░░░░░░░░░░░░░░░   30.8 %
+Lunes                 15 commits   ██████░░░░░░░░░░░░░░░░░░░   22.4 %
+Martes                 6 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    9.0 %
+Miércoles              5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    7.5 %
+Jueves                20 commits   ███████░░░░░░░░░░░░░░░░░░   29.9 %
+Viernes               21 commits   ████████░░░░░░░░░░░░░░░░░   31.3 %
 Sábado                 0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 65 commits en hora de Bogotá · 2026-11-13</sub>
+<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-14</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Una consulta SQL entra a un bar, se acerca a dos tablas y pregunta: "¿me puedo unir?".
+> El primer 90 % del código toma el 90 % del tiempo. El otro 10 % toma el otro 90 %.
 
 > **¿Sabías que...?**<br>
-> El código del computador de guía del Apollo 11, del equipo de Margaret Hamilton, está publicado en GitHub.
+> Ley de Conway: los sistemas terminan copiando la estructura de comunicación de la organización que los diseña.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-13</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-14</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
