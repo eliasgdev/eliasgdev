@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-14</sub>
+<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-15</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> El primer 90 % del código toma el 90 % del tiempo. El otro 10 % toma el otro 90 %.
+> ¿Por qué los programadores usan modo oscuro? Porque la luz atrae a los bugs.
 
 > **¿Sabías que...?**<br>
-> Ley de Conway: los sistemas terminan copiando la estructura de comunicación de la organización que los diseña.
+> Margaret Hamilton popularizó el término "ingeniería de software" mientras trabajaba en el programa Apollo.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-14</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-15</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
