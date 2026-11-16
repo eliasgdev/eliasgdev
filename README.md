@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-15</sub>
+<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-16</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> ¿Por qué los programadores usan modo oscuro? Porque la luz atrae a los bugs.
+> Estimé dos horas. Van tres días. Sigo en la segunda hora.
 
 > **¿Sabías que...?**<br>
-> Margaret Hamilton popularizó el término "ingeniería de software" mientras trabajaba en el programa Apollo.
+> Ada Lovelace escribió en 1843 el primer algoritmo pensado para una máquina: calculaba números de Bernoulli en la Máquina Analítica de Babbage, que nunca se construyó.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-15</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-16</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
