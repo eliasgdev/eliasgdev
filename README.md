@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-16</sub>
+<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-17</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Estimé dos horas. Van tres días. Sigo en la segunda hora.
+> CSS: mueves un div dos píxeles a la izquierda y se rompe el footer de otra página.
 
 > **¿Sabías que...?**<br>
-> Ada Lovelace escribió en 1843 el primer algoritmo pensado para una máquina: calculaba números de Bernoulli en la Máquina Analítica de Babbage, que nunca se construyó.
+> 0.1 + 0.2 da 0.30000000000000004 en casi todos los lenguajes por cómo funciona el formato de punto flotante IEEE 754.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-16</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-17</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
