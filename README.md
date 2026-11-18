@@ -99,19 +99,19 @@ Sábado                 0 commits   ░░░░░░░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-17</sub>
+<sub>Calculado con 67 commits en hora de Bogotá · 2026-11-18</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> CSS: mueves un div dos píxeles a la izquierda y se rompe el footer de otra página.
+> Viernes, 5:00 p. m.: "es un cambio de una sola línea, lo despliego rápido".
 
 > **¿Sabías que...?**<br>
-> 0.1 + 0.2 da 0.30000000000000004 en casi todos los lenguajes por cómo funciona el formato de punto flotante IEEE 754.
+> La técnica del pato de goma viene del libro The Pragmatic Programmer: explicarle el código, línea por línea, a un pato de hule.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-17</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-18</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
