@@ -80,38 +80,38 @@ f6c3d29  feat: facturación electrónica DIAN (UBL 2.1, CUFE, firma)
 ## ¿Cuándo programo?
 
 <!-- HORARIO:INICIO -->
-**Programo más en la tarde, después de clase.** El día que más commits hago es el **jueves**.
+**Programo más en la tarde, después de clase.** El día que más commits hago es el **viernes**.
 
 ```text
 Madrugada (00–06)      0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Mañana (06–12)         8 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.8 %
-Tarde (12–18)         32 commits   ████████████░░░░░░░░░░░░░   47.1 %
-Noche (18–24)         28 commits   ██████████░░░░░░░░░░░░░░░   41.2 %
+Mañana (06–12)        38 commits   ████████░░░░░░░░░░░░░░░░░   30.4 %
+Tarde (12–18)         54 commits   ███████████░░░░░░░░░░░░░░   43.2 %
+Noche (18–24)         33 commits   ███████░░░░░░░░░░░░░░░░░░   26.4 %
 ```
 
 ```text
-Lunes                 15 commits   ██████░░░░░░░░░░░░░░░░░░░   22.1 %
-Martes                 6 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    8.8 %
-Miércoles              5 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    7.4 %
-Jueves                21 commits   ████████░░░░░░░░░░░░░░░░░   30.9 %
-Viernes               21 commits   ████████░░░░░░░░░░░░░░░░░   30.9 %
-Sábado                 0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
+Lunes                 15 commits   ███░░░░░░░░░░░░░░░░░░░░░░   12.0 %
+Martes                 6 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    4.8 %
+Miércoles              5 commits   █░░░░░░░░░░░░░░░░░░░░░░░░    4.0 %
+Jueves                18 commits   ████░░░░░░░░░░░░░░░░░░░░░   14.4 %
+Viernes               51 commits   ██████████░░░░░░░░░░░░░░░   40.8 %
+Sábado                30 commits   ██████░░░░░░░░░░░░░░░░░░░   24.0 %
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 68 commits en hora de Bogotá · 2026-11-20</sub>
+<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-21</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Tenía un problema y decidí resolverlo con una expresión regular. Ahora tengo dos problemas.
+> while (!dormido) { cafe++; codigo++; }
 
 > **¿Sabías que...?**<br>
-> El símbolo @ en los correos se usó por primera vez en 1971, cuando Ray Tomlinson envió el primer correo entre computadores en red.
+> El primer commit de Git dice: "Initial revision of git, the information manager from hell".
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-20</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-21</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
