@@ -99,19 +99,19 @@ Sábado                30 commits   ██████░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-22</sub>
+<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-23</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> —¿Qué hace esta función? —No sé, pero si la toco todo deja de funcionar.
+> // TODO: arreglar esto temporalmente (escrito en 2019, todavía en producción).
 
 > **¿Sabías que...?**<br>
-> Java se iba a llamar Oak, pero ese nombre ya estaba registrado.
+> Docker se presentó en PyCon 2013 en una charla relámpago de cinco minutos.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-22</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-23</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
