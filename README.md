@@ -99,19 +99,19 @@ Sábado                30 commits   ██████░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-23</sub>
+<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-24</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> // TODO: arreglar esto temporalmente (escrito en 2019, todavía en producción).
+> Los arrays empiezan en 0. Las discusiones sobre eso no terminan nunca.
 
 > **¿Sabías que...?**<br>
-> Docker se presentó en PyCon 2013 en una charla relámpago de cinco minutos.
+> La palabra "robot" viene de la obra de teatro R.U.R., de Karel Čapek (1920).
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-23</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-24</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
