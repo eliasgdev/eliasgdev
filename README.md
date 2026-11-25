@@ -99,19 +99,19 @@ Sábado                30 commits   ██████░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-24</sub>
+<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-25</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Los arrays empiezan en 0. Las discusiones sobre eso no terminan nunca.
+> Depurar es ser el detective de una película policiaca en la que también eres el asesino.
 
 > **¿Sabías que...?**<br>
-> La palabra "robot" viene de la obra de teatro R.U.R., de Karel Čapek (1920).
+> En JavaScript, typeof null devuelve "object". Es un error de la primera implementación que nunca se corrigió para no romper la web.
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-24</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-25</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
