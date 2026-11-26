@@ -99,19 +99,19 @@ Sábado                30 commits   ██████░░░░░░░░�
 Domingo                0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
 ```
 
-<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-25</sub>
+<sub>Calculado con 125 commits en hora de Bogotá · 2026-11-26</sub>
 <!-- HORARIO:FIN -->
 
 ## Commit del día
 
 <!-- DIA:INICIO -->
 > **Chiste del día**<br>
-> Depurar es ser el detective de una película policiaca en la que también eres el asesino.
+> El mejor código es el que nunca tuviste que escribir.
 
 > **¿Sabías que...?**<br>
-> En JavaScript, typeof null devuelve "object". Es un error de la primera implementación que nunca se corrigió para no romper la web.
+> El primer mensaje enviado por ARPANET, en 1969, fue "LO": el sistema se cayó antes de terminar de escribir "LOGIN".
 
-<sub>Se actualiza solo todos los días · última actualización: 2026-11-25</sub>
+<sub>Se actualiza solo todos los días · última actualización: 2026-11-26</sub>
 <!-- DIA:FIN -->
 
 ## Actividad
